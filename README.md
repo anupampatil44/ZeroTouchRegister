@@ -5,7 +5,7 @@ A Database Management Online Platform to keep track of the number visitors at th
 3) Overall data of all Visitors.
 Thereby eliminating the use of physical registers with pen & paper, hence causing lesser chances of physical contact, in-turn ensuring clean hygiene.
 
-##Tech Stack:
+Tech Stack:
   Front-end: HTML, CSS, JS (Bootstrap)
   Back-end: Django
   DB: sqlite
