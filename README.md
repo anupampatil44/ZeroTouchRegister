@@ -1,5 +1,5 @@
 # Zero-Touch-Register
-A Database Management Online Platform to keep track of the number visitors at the PICT college campus, which is capable of Report Generation to determine:
+A Database Management Online Platform to keep track of the number visitors at the PICT college campus, which is capable of Report Generation(.csv) to determine:
 1) Data of Visitors currently present in campus.
 2) Data of Visitors visiting campus on a particular date.
 3) Overall data of all Visitors.
