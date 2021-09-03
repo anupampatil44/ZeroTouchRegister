@@ -13,3 +13,8 @@ Thereby eliminating the use of physical registers with pen & paper, hence causin
 ## Requirements:
   Python Version: Python 3.9
   Packages needed: django, django_import_export, csv, os, datetime, dateutils
+
+## Designed by:
+   Anupam Patil   ->   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anupam-patil-114b841b0/)
+   Devansh Mundada->[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/devansh-mundada/)
+   Ved Patwardhan -> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ved-patwardhan-8093361b6/)
