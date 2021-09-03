@@ -15,6 +15,6 @@ Thereby eliminating the use of physical registers with pen & paper, hence causin
   Packages needed: django, django_import_export, csv, os, datetime, dateutils
 
 ## Designed by:
-   Anupam Patil-<br>[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anupam-patil-114b841b0/)
-   Devansh Mundada-<br>[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/devansh-mundada/)<br>
+   Anupam Patil-<br>[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anupam-patil-114b841b0/)<br><br>
+   Devansh Mundada-<br>[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/devansh-mundada/)<br><br>
    Ved Patwardhan -<br>[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ved-patwardhan-8093361b6/)
